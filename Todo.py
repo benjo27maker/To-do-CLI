@@ -1,1 +1,1 @@
-print("i'mg now gonna make a fire to-do list")
+print("i'm now gonna make a fire to-do list")
