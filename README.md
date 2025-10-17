@@ -1,5 +1,7 @@
 # To-do CLI Project
 
+**Project URL:** [https://github.com/benjo27maker/To-do-CLI](https://github.com/benjo27maker/To-do-CLI)
+
 This project is a simple command-line to-do list application written in Python. The to-do list stores tasks in a seperate json file and updates that file everytime a change is made  
 It allows you to keep track of tasks that need to be done using simple terminal commands.
 
